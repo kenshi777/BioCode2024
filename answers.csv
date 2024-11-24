@@ -1,0 +1,15 @@
+,Sample,Answer_1,Answer_2,Answer_3,Answer_4,Answer_5,Answer_6,Answer_7,Answer_8,Answer_9,Answer_10,Answer_11,Answer_12,Answer_13,Answer_14,Answer_15
+0,Barracuda.tsv,CMV,InfluenzaA,SARS-CoV-2,HIV-1,EBV,HomoSapiens,YFV,DENV,HCV,TriticumAestivum,others,Mtb,Influenza B,,
+1,Boss.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+2,Dance_Till_Dead.tsv,CMV,InfluenzaA,SARS-CoV-2,HIV-1,EBV,HomoSapiens,YFV,DENV,HCV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+3,FEV_Reject.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+4,Johny.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,HCV,YFV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+5,King_Charles.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+6,Lucky_Number_5.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+7,Lychelle.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Influenza B,Mtb,HTLV-1,PlasmodiumFalciparum,others
+8,Matchstick_Man.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+9,Mengsk.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,Mtb,HTLV-1,TriticumAestivum,others,Influenza B,
+10,Pavlina_Grey.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,HCV,YFV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+11,Starry_Sky.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Influenza B,Mtb,others,HTLV-1,PlasmodiumFalciparum
+12,The_Wide_Pirate.tsv,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,HCV,YFV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+13,vdjdb.slim.txt,CMV,InfluenzaA,SARS-CoV-2,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum

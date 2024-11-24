@@ -1,0 +1,15 @@
+,Sample,Answer_1,Answer_2,Answer_3,Answer_4,Answer_5,Answer_6,Answer_7,Answer_8,Answer_9,Answer_10,Answer_11,Answer_12
+0,Barracuda.tsv,HIV-1,EBV,HomoSapiens,YFV,DENV,HCV,TriticumAestivum,others,Mtb,Influenza B,,
+1,Boss.tsv,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+2,Dance_Till_Dead.tsv,HIV-1,EBV,HomoSapiens,YFV,DENV,HCV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+3,FEV_Reject.tsv,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+4,Johny.tsv,EBV,HomoSapiens,HIV-1,HCV,YFV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+5,King_Charles.tsv,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+6,Lucky_Number_5.tsv,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+7,Lychelle.tsv,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Influenza B,Mtb,HTLV-1,PlasmodiumFalciparum,others
+8,Matchstick_Man.tsv,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+9,Mengsk.tsv,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,Mtb,HTLV-1,TriticumAestivum,others,Influenza B,
+10,Pavlina_Grey.tsv,EBV,HomoSapiens,HIV-1,HCV,YFV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+11,Starry_Sky.tsv,EBV,HIV-1,HomoSapiens,YFV,HCV,DENV,TriticumAestivum,Influenza B,Mtb,others,HTLV-1,PlasmodiumFalciparum
+12,The_Wide_Pirate.tsv,EBV,HomoSapiens,HIV-1,HCV,YFV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
+13,vdjdb.slim.txt,EBV,HomoSapiens,HIV-1,YFV,HCV,DENV,TriticumAestivum,Mtb,Influenza B,others,HTLV-1,PlasmodiumFalciparum
